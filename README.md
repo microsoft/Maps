@@ -1,3 +1,13 @@
+# Micrsoft Open Source Map Projects
+
+A list of open source projects related to Microsoft's geospatial and mapping services.
+
+## Product
+
+* [Azure Location Based Services (LBS)](AzureLBS.md)
+* [Bing Maps](BingMaps.md)
+* [SQL Spatial](SQLSpatial.md)
+* [Other Microsoft Map Projects](OtherMSMaps.md)
 
 # Contributing
 
