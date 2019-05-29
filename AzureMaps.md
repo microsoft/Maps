@@ -23,3 +23,4 @@
 | [A-Maps](https://github.com/riccardoklinger/amaps) | A QGIS plugin for the Azure Maps REST services. |
 | [Azure Web Services](https://github.com/cjoakim/azure-web-services) | A collection of clients for Azure & Microsoft Web Services - Azure Cognitive Services, Azure Maps | 
 | [Vue Azure Maps](https://github.com/rickyruiz/vue-azure-maps) | Integrate Azure Maps in your Vue application |
+| [XaMaps](https://github.com/AlexPshul/XaMaps) | Xamarin + Azure Maps |
