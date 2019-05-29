@@ -20,3 +20,4 @@
 | [Azure Maps .NET UWP IoT Remote Control](https://github.com/Azure-Samples/azure-maps-dotnet-webgl-uwp-iot-remote-control) | This is a sample application which shows how to build a remotely controlled map using Azure Maps and IoT hub services. |
 | [Azure Maps Bus Demo](https://github.com/DibranMulder/Azure-Maps-Bus-Demo) | Animating an electric bus ride. |
 | [Azure Maps Python Sample](https://github.com/eavanvalkenburg/azuremaps-python-sample) | Sample code for calling Azure Maps from Python. |
+| [A-Maps](https://github.com/riccardoklinger/amaps) | A QGIS plugin for the Azure Maps REST services. |
