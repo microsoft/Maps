@@ -22,5 +22,7 @@
 | [Azure Maps Python Sample](https://github.com/eavanvalkenburg/azuremaps-python-sample) | Sample code for calling Azure Maps from Python. |
 | [A-Maps](https://github.com/riccardoklinger/amaps) | A QGIS plugin for the Azure Maps REST services. |
 | [Azure Web Services](https://github.com/cjoakim/azure-web-services) | A collection of clients for Azure & Microsoft Web Services - Azure Cognitive Services, Azure Maps | 
+| [Azure Maps Search Control for PowerApps](https://github.com/mkcgphy/Azure-Maps-Get-Search-Address-TypeAhead) | A PowerApps component that provides a search bar control powered by Azure Maps.
+| [PCF Azure Maps](https://github.com/jenschristianschroder/pcfAzureMaps) | A PowerApps PCF control that displays a dataset as pins on Azure Map. |
 | [Vue Azure Maps](https://github.com/rickyruiz/vue-azure-maps) | Integrate Azure Maps in your Vue application |
 | [XaMaps](https://github.com/AlexPshul/XaMaps) | Xamarin + Azure Maps |
