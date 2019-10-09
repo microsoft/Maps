@@ -5,6 +5,7 @@
 | Project Name | Description |
 |-|-|
 | [Azure Maps Code Samples](https://github.com/Azure-Samples/AzureMapsCodeSamples) | A collection of code samples for using Azure Maps in web based apps. |
+| [Azure Maps & Azure Active Directory Samples](https://github.com/Azure-Samples/Azure-Maps-AzureAD-Samples) | A collection of samples that show how to use Azure Active Directory with Azure Maps. | 
 | [Azure Maps .NET UWP IoT Remote Control](https://github.com/Azure-Samples/azure-maps-dotnet-webgl-uwp-iot-remote-control) | This is a sample application which shows how to build a remotely controlled map using Azure Maps and IoT hub services. |
 | [Virtual Assistant Skills - Point of Interest](https://github.com/Microsoft/AI/blob/master/solutions/Virtual-Assistant/docs/virtualassistant-skills-pointofinterest.md) |The Point of Interest Skill provides PoI related capabilities to a Virtual Assistant using Azure Maps with Azure Bot Service and Bot Framework. |
 | [Azure Maps Docs](https://github.com/MicrosoftDocs/azure-docs/tree/master/articles/azure-maps) | Source for all Azure Location Based Services documentation. |
@@ -22,7 +23,7 @@
 | [Azure Maps Python Sample](https://github.com/eavanvalkenburg/azuremaps-python-sample) | Sample code for calling Azure Maps from Python. |
 | [A-Maps](https://github.com/riccardoklinger/amaps) | A QGIS plugin for the Azure Maps REST services. |
 | [Azure Web Services](https://github.com/cjoakim/azure-web-services) | A collection of clients for Azure & Microsoft Web Services - Azure Cognitive Services, Azure Maps | 
-| [Azure Maps Search Control for PowerApps](https://github.com/mkcgphy/Azure-Maps-Get-Search-Address-TypeAhead) | A PowerApps component that provides a search bar control powered by Azure Maps.
-| [PCF Azure Maps](https://github.com/jenschristianschroder/pcfAzureMaps) | A PowerApps PCF control that displays a dataset as pins on Azure Map. |
+| [Azure Maps PowerApps PCF Search Control component](https://github.com/mkcgphy/Azure-Maps-Get-Search-Address-TypeAhead) | A PowerApps component that provides a search bar control powered by Azure Maps.
+| [Azure Maps PowerApps PCF component](https://github.com/jenschristianschroder/pcfAzureMaps) | A PowerApps PCF control that displays a dataset as pins on Azure Map. |
 | [Vue Azure Maps](https://github.com/rickyruiz/vue-azure-maps) | Integrate Azure Maps in your Vue application |
 | [XaMaps](https://github.com/AlexPshul/XaMaps) | Xamarin + Azure Maps |
