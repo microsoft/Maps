@@ -23,6 +23,7 @@
 | [Azure Maps for Retail, Jupyter Notebooks](https://github.com/5h15h/Azure-Maps-Jupyter-Notebooks) | A colleciton of Python samples using Azure Maps in retail scenarios. |
 | [Azure Maps Bus Demo](https://github.com/DibranMulder/Azure-Maps-Bus-Demo) | Animating an electric bus ride. |
 | [Azure Maps Python Sample](https://github.com/eavanvalkenburg/azuremaps-python-sample) | Sample code for calling Azure Maps from Python. |
+| [Azure Maps GeoJSON Admin Portal](https://github.com/richorama/azure-maps-admin-portal) | A portal for managing GeoJSON data with the Azure Maps Data Services. |
 | [A-Maps](https://github.com/riccardoklinger/amaps) | A QGIS plugin for the Azure Maps REST services. |
 | [Azure Web Services](https://github.com/cjoakim/azure-web-services) | A collection of clients for Azure & Microsoft Web Services - Azure Cognitive Services, Azure Maps | 
 | [Azure Maps PowerApps PCF Search Control component](https://github.com/mkcgphy/Azure-Maps-Get-Search-Address-TypeAhead) | A PowerApps component that provides a search bar control powered by Azure Maps.
