@@ -6,7 +6,7 @@
 |-|-|
 | [Azure Maps Code Samples](https://github.com/Azure-Samples/AzureMapsCodeSamples) | A collection of code samples for using Azure Maps in web based apps. |
 | [Azure Maps & Azure Active Directory Samples](https://github.com/Azure-Samples/Azure-Maps-AzureAD-Samples) | A collection of samples that show how to use Azure Active Directory with Azure Maps. | 
-| [Implement IoT spatial analytics using Azure Maps](https://github.com/Azure-Samples/iothub-to-azure-maps-geofencing) | |
+| [Implement IoT spatial analytics using Azure Maps](https://github.com/Azure-Samples/iothub-to-azure-maps-geofencing) | Tracking and capturing relevant events that occur in space and time is a common IoT scenario. |
 | [Azure Maps Jupyter Notebook samples](https://github.com/Azure-Samples/Azure-Maps-Jupyter-Notebook) | A collection of python samples using the Azure Maps REST services. |
 | [Virtual Assistant Skills - Point of Interest](https://github.com/Microsoft/AI/blob/master/solutions/Virtual-Assistant/docs/virtualassistant-skills-pointofinterest.md) | The Point of Interest Skill provides POI related capabilities to a Virtual Assistant using Azure Maps with Azure Bot Service and Bot Framework. |
 | [Azure Maps Docs](https://github.com/MicrosoftDocs/azure-docs/tree/master/articles/azure-maps) | Source for all Azure Location Based Services documentation. |
