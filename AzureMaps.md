@@ -5,6 +5,7 @@
 | Project Name | Description |
 |-|-|
 | [Azure Maps Code Samples](https://github.com/Azure-Samples/AzureMapsCodeSamples) | A collection of code samples for using Azure Maps in web based apps. |
+| [Azure Maps Gov Cloud Code Samples](https://github.com/Azure-Samples/AzureMapsCodeSamples) | A collection of code samples for using Azure Maps through Azure Government Cloud. |
 | [Azure Maps & Azure Active Directory Samples](https://github.com/Azure-Samples/Azure-Maps-AzureAD-Samples) | A collection of samples that show how to use Azure Active Directory with Azure Maps. | 
 | [Implement IoT spatial analytics using Azure Maps](https://github.com/Azure-Samples/iothub-to-azure-maps-geofencing) | Tracking and capturing relevant events that occur in space and time is a common IoT scenario. |
 | [Azure Maps Jupyter Notebook samples](https://github.com/Azure-Samples/Azure-Maps-Jupyter-Notebook) | A collection of python samples using the Azure Maps REST services. |
@@ -28,6 +29,7 @@
 | [Azure Web Services](https://github.com/cjoakim/azure-web-services) | A collection of clients for Azure & Microsoft Web Services - Azure Cognitive Services, Azure Maps | 
 | [Azure Maps PowerApps PCF Search Control component](https://github.com/mkcgphy/Azure-Maps-Get-Search-Address-TypeAhead) | A PowerApps component that provides a search bar control powered by Azure Maps.
 | [Azure Maps PowerApps PCF component](https://github.com/jenschristianschroder/pcfAzureMaps) | A PowerApps PCF control that displays a dataset as pins on Azure Map. |
+| [Azure Maps PowerApps PCF spider cluster control](https://github.com/alano444/PCFAzureMapCluststerSpider) | A PowerApps PCF control for displaying points as clusters that expand into a spider cluster layout. [Video](https://www.youtube.com/watch?v=9ehWIk2l4Tc&feature=youtu.be) |
  | [Real-time flight map with Azure functions, CosmosDB and SignalR](https://github.com/davetheunissen/Global-Azure-Bootcamp-2019-Workshop) | Visualize real-time data on Azure Maps. |
 | [Vue Azure Maps](https://github.com/rickyruiz/vue-azure-maps) | Integrate Azure Maps in your Vue application |
 | [XaMaps](https://github.com/AlexPshul/XaMaps) | Xamarin + Azure Maps |
