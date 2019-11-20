@@ -10,6 +10,7 @@
 | [Bing Maps V8 TypeScript Definitions](https://github.com/Microsoft/Bing-Maps-V8-TypeScript-Definitions) | This project contains the TypeScript definitions for the Bing Maps V8 Web Control. |
 | [Bing Maps V8 Code Samples](https://github.com/Microsoft/BingMapsV8CodeSamples) | This is a collection of over two hundred code samples an growing for the Bing Maps V8 web control. |
 | [BotBuilder Location](https://github.com/Microsoft/BotBuilder-Location) | An open-source location picker control for Microsoft Bot Framework powered by Bing Maps REST services. |
+| [Bing Maps Unity SDK](https://github.com/microsoft/MapsSDK-Unity) | This repository contains samples, documentation, and supporting scripts for Maps SDK, a Microsoft Garage project.  |
 
 ## Related Community Projects
 
