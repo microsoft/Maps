@@ -31,6 +31,7 @@
 | [Azure Maps PowerApps PCF Search Control component](https://github.com/mkcgphy/Azure-Maps-Get-Search-Address-TypeAhead) | A PowerApps component that provides a search bar control powered by Azure Maps.
 | [Azure Maps PowerApps PCF component](https://github.com/jenschristianschroder/pcfAzureMaps) | A PowerApps PCF control that displays a dataset as pins on Azure Map. |
 | [Azure Maps PowerApps PCF spider cluster control](https://github.com/alano444/PCFAzureMapCluststerSpider) | A PowerApps PCF control for displaying points as clusters that expand into a spider cluster layout. [Video](https://www.youtube.com/watch?v=9ehWIk2l4Tc&feature=youtu.be) |
+| [Flutter_map](https://github.com/johnpryan/flutter_map) | Use Azure Maps with the flutter UI toolkit. |
  | [Real-time flight map with Azure functions, CosmosDB and SignalR](https://github.com/davetheunissen/Global-Azure-Bootcamp-2019-Workshop) | Visualize real-time data on Azure Maps. |
 | [Vue Azure Maps](https://github.com/rickyruiz/vue-azure-maps) | Integrate Azure Maps in your Vue application |
 | [XaMaps](https://github.com/AlexPshul/XaMaps) | Xamarin + Azure Maps |
