@@ -22,7 +22,7 @@
 | [Angular Azure Maps](https://github.com/Acaisoft/angular-azure-maps) | An Angular 6 Azure Maps component. |
 | [Angular Azure Map Wrapper](https://github.com/srednicki95/am_samples) | Angular 6.0+ Azure Map Samples. |
 | [Azure Maps for Retail, Jupyter Notebooks](https://github.com/5h15h/Azure-Maps-Jupyter-Notebooks) | A colleciton of Python samples using Azure Maps in retail scenarios. |
-| [Azure IoT Real-time tracking workshop](https://github.com/kartben/azure-iot-realtime-asset-tracking-workshop) | A step by step workshop for create a real-time device tracking application. |
+| [Azure IoT Real-time asset tracking workshop](http://aka.ms/iot-workshop/asset-tracking) | A step by step workshop for create a real-time device asset tracking application. |
 | [Azure Maps Bus Demo](https://github.com/DibranMulder/Azure-Maps-Bus-Demo) | Animating an electric bus ride. |
 | [Azure Maps Python Sample](https://github.com/eavanvalkenburg/azuremaps-python-sample) | Sample code for calling Azure Maps from Python. |
 | [Azure Maps GeoJSON Admin Portal](https://github.com/richorama/azure-maps-admin-portal) | A portal for managing GeoJSON data with the Azure Maps Data Services. |
