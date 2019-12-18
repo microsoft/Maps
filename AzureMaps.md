@@ -2,6 +2,8 @@
 
 ## Official Microsoft Projects
 
+These are open-source, community-driven initiatives, created and maintained by the Azure Maps team, but are not part of the standard product or service offerings.
+
 | Project Name | Description |
 |-|-|
 | [Azure Maps Code Samples](https://github.com/Azure-Samples/AzureMapsCodeSamples) | A collection of code samples for using Azure Maps in web based apps. |
@@ -15,6 +17,8 @@
 | [Azure Maps .NET UWP IoT Remote Control](https://github.com/Azure-Samples/azure-maps-dotnet-webgl-uwp-iot-remote-control) | This is a sample application which shows how to build a remotely controlled map using Azure Maps and IoT hub services. |
 
 ## Related Community Projects
+
+These are open-source, community-driven initiatives, some of which the Azure Maps team contributes to, but are not part of the standard product or service offerings.
 
 | Project Name | Description |
 |-|-|
