@@ -23,6 +23,7 @@ These are open-source, community-driven initiatives, some of which the Azure Map
 | Project Name | Description |
 |-|-|
 | [AirMap Azure Maps plugin](https://github.com/airmap/js-azure-maps-plugin) | Azure Maps JS plugin to view and interact with AirMap's Contextual Airspace Rules  |
+| [Azure Maps React Component](https://github.com/WiredSolutions/react-azure-maps) | A react wrapper for the Azure Maps control. |
 | [Angular Azure Maps](https://github.com/Acaisoft/angular-azure-maps) | An Angular 6 Azure Maps component. |
 | [Angular Azure Map Wrapper](https://github.com/srednicki95/am_samples) | Angular 6.0+ Azure Map Samples. |
 | [Azure Maps for Retail, Jupyter Notebooks](https://github.com/5h15h/Azure-Maps-Jupyter-Notebooks) | A colleciton of Python samples using Azure Maps in retail scenarios. |
