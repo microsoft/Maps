@@ -17,7 +17,7 @@ The following is a list of open-source projects that extend the capabilites of t
 
 | Project Name | Description |
 |-|-|
-| [Azure Maps Animation module](https://github.com/Azure-Samples/azure-maps-animations)| A rich library of animations for use with the Azure Maps Web SDK. |
+| [Azure Maps Animation module](https://github.com/Azure-Samples/azure-maps-animations) | A rich library of animations for use with the Azure Maps Web SDK. |
 | [Azure Maps Services UI module](https://github.com/Azure-Samples/azure-maps-services-ui) | A set of web UI controls that wrap the Azure Maps REST services. |
 
 **Samples**
