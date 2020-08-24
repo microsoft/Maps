@@ -13,7 +13,7 @@ These are open-source, community-driven initiatives, created and maintained by t
 
 **Open Web SDK modules**
 
-The following is a list of open-source projects that extend the capabilites of the Azure Maps Web SDK.
+The following is a list of open-source projects that extend the capabilities of the Azure Maps Web SDK.
 
 | Project Name | Description |
 |-|-|
