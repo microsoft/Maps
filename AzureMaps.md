@@ -12,6 +12,7 @@ These are open-source, community-driven initiatives, created and maintained by t
 | [BotBuilder Location](https://github.com/Microsoft/BotBuilder-Location) | An open-source location picker control for Microsoft Bot Framework powered by Bing Maps REST services. |
 
 **Open Web SDK modules**
+<a href="#open-web-sdk-modules"></a>
 
 The following is a list of open-source projects that extend the capabilities of the Azure Maps Web SDK.
 
