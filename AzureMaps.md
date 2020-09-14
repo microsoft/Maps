@@ -51,6 +51,7 @@ These are open-source, community-driven initiatives, some of which the Azure Map
 
 | Project Name | Description |
 |-|-|
+| [ng Azure Maps](https://github.com/arnaudleclerc/ng-azure-maps) |  An Angular 10 Azure Maps component. | 
 | [Angular Azure Maps](https://github.com/Acaisoft/angular-azure-maps) | An Angular 6 Azure Maps component. |
 | [Angular Azure Map Wrapper](https://github.com/srednicki95/am_samples) | Angular 6.0+ Azure Map Samples. |
 
