@@ -55,6 +55,12 @@ These are open-source, community-driven initiatives, some of which the Azure Map
 | [Angular Azure Maps](https://github.com/Acaisoft/angular-azure-maps) | An Angular 6 Azure Maps component. |
 | [Angular Azure Map Wrapper](https://github.com/srednicki95/am_samples) | Angular 6.0+ Azure Map Samples. |
 
+** Blazor**
+
+| Project Name | Description |
+|-|-|
+| [AzureMapsControl.Components](https://github.com/arnaudleclerc/AzureMapsControl.Components) | An Azure Maps Blazor component. WIP of azure-maps-controls Razor Components. |
+
 **Flutter**
 
 | Project Name | Description |
