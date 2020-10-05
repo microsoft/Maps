@@ -10,7 +10,7 @@ products:
 - azure-maps
 ---
 
-# Micrsoft Open Source Map Projects
+# Microsoft Open Source Map Projects
 
 A list of open source projects related to Microsoft's geospatial and mapping services.
 
