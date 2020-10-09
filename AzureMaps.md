@@ -4,13 +4,6 @@
 
 These are open-source, community-driven initiatives, created and maintained by the Azure Maps team, but are not part of the standard product or service offerings.
 
-**Bots**
-
-| Project Name | Description |
-|-|-|
-| [Bot Framework - Point of Interest skill](https://github.com/microsoft/botframework-solutions/tree/488093ac2fddf16096171f6a926315aa45e199e7/skills/csharp/pointofinterestskill) | The Point of Interest Skill provides POI related capabilities to a Virtual Assistant using Azure Maps with Azure Bot Service and Bot Framework. |
-| [BotBuilder Location](https://github.com/Microsoft/BotBuilder-Location) | An open-source location picker control for Microsoft Bot Framework powered by Bing Maps REST services. |
-
 **Open Web SDK modules**
 <a href="#open-web-sdk-modules"></a>
 
@@ -23,8 +16,16 @@ The following is a list of open-source projects that extend the capabilities of 
 | [Azure Maps Gridded Data Source module](https://github.com/Azure-Samples/azure-maps-gridded-data-source) | A module for the Azure Maps Web SDK that provides a data source that clusters data points into cells of a grid area. This operation is also known by many names such as tessellations, data binning, or hex bins.  |
 | [Azure Maps Fullscreen Control module](https://github.com/Azure-Samples/azure-maps-fullscreen-control) | An Azure Maps Web SDK module that provides a control to display the map in fullscreen mode. |
 | [Azure Maps Selection Control module](https://github.com/Azure-Samples/azure-maps-selection-control) | An Azure Maps Web SDK module that provides controls for selecting data in a data source using drawing tools or by requesting a route range polygon. |
+| [Azure Maps Swipe Map module](https://github.com/Azure-Samples/azure-maps-swipe-map) | A module for the Azure Maps Web SDK that allows swiping between two overlapping maps, ideal for comparing two overlapping data sets. |
 | [Azure Maps Sync Map module](https://github.com/Azure-Samples/azure-maps-sync-maps) | An Azure Maps Web SDK module that synchronizes the cameras of two or more maps. |
 | [Azure Maps Services UI module](https://github.com/Azure-Samples/azure-maps-services-ui) | A set of web UI controls that wrap the Azure Maps REST services. |
+
+**Bots**
+
+| Project Name | Description |
+|-|-|
+| [Bot Framework - Point of Interest skill](https://github.com/microsoft/botframework-solutions/tree/488093ac2fddf16096171f6a926315aa45e199e7/skills/csharp/pointofinterestskill) | The Point of Interest Skill provides POI related capabilities to a Virtual Assistant using Azure Maps with Azure Bot Service and Bot Framework. |
+| [BotBuilder Location](https://github.com/Microsoft/BotBuilder-Location) | An open-source location picker control for Microsoft Bot Framework powered by Bing Maps REST services. |
 
 **Samples**
 
