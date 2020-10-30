@@ -73,6 +73,7 @@ These are open-source, community-driven initiatives, some of which the Azure Map
 
 | Project Name | Description |
 |-|-|
+| [LiveMaps](https://github.com/Azure-Samples/LiveMaps) | Sample application to provide live indoor maps visualization of IoT data on top of Azure Maps using Azure Maps Creator |
 | [Azure IoT Real-time asset tracking workshop](http://aka.ms/iot-workshop/asset-tracking) | A step by step workshop for create a real-time device asset tracking application. |
 
 ### PowerApps PCF components
