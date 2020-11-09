@@ -20,6 +20,13 @@ The following is a list of open-source projects that extend the capabilities of 
 | [Azure Maps Sync Map module](https://github.com/Azure-Samples/azure-maps-sync-maps) | An Azure Maps Web SDK module that synchronizes the cameras of two or more maps. |
 | [Azure Maps Services UI module](https://github.com/Azure-Samples/azure-maps-services-ui) | A set of web UI controls that wrap the Azure Maps REST services. |
 
+### Azure Maps Creator
+
+| Project Name | Description |
+|-|-|
+| [Azure Maps Creator Tools](https://github.com/Azure-Samples/AzureMapsCreator) | Python tools for Azure Maps Creator Tools. |
+| [am-creator-indoor-data-examples](https://github.com/Azure-Samples/am-creator-indoor-data-examples) | Examples of indoor data that can be used in Azure Maps creator. |
+
 ### Bots
 
 | Project Name | Description |
@@ -43,7 +50,6 @@ The following is a list of open-source projects that extend the capabilities of 
 | Project Name | Description |
 |-|-|
 | [Azure Maps Docs](https://github.com/MicrosoftDocs/azure-docs/tree/master/articles/azure-maps) | Source for all Azure Location Based Services documentation. |
-| [Azure Maps Creator Tools](https://github.com/Azure-Samples/AzureMapsCreator) | Python tools for Azure Maps Creator Tools. |
 
 ## Related Community Projects
 
@@ -103,6 +109,7 @@ These are open-source, community-driven initiatives, some of which the Azure Map
 | [Pubs of London](https://github.com/deeja/PubsOfLondon) | A pub finder app using Azure Maps. |
 | [San Francisco Food Truck Explorer](https://github.com/joaquinrz/sf-foodtrucks) | A prototype application written in TypeScript and React.js to easily visualize in Microsoft Azure Maps all the current active food trucks in the city of San Francisco, CA. |
 | [Pollution Tracker](https://github.com/jimbobbennett/PollutionTracker) | Azure Maps based pollution tracker. |
+| [azuremapswebapp](https://github.com/ricardoprins/azuremapswebapp) | This webapp uses Azure Maps to visualize spatial data on an interactive map on a webpage. (Flask/Python, Azure Maps JavaScript API, WAQI API) |
 
 ### Tools and extensions
 
@@ -112,6 +119,7 @@ These are open-source, community-driven initiatives, some of which the Azure Map
 | [AirMap Azure Maps plugin](https://github.com/airmap/js-azure-maps-plugin) | Azure Maps JS plugin to view and interact with AirMap's Contextual Airspace Rules  |
 | [AzMapOps](https://github.com/jonsatchwell/AzMapOps) | Powershell module for working with the Azure Maps API. |
 | [Azure Maps GeoJSON Admin Portal](https://github.com/richorama/azure-maps-admin-portal) | A portal for managing GeoJSON data with the Azure Maps Data Services. |
+| [azure-maps-h3](https://github.com/Azure-Samples/azure-maps-h3) | Azure Maps sample for creating H3 Mapbox layers using the Mapbox instance in Azure Maps. |
 | [Azure Maps .NET REST Client](https://github.com/perfahlen/AzureMapsRestServices) | .Net Standard 2.0 library to access AzureMaps Services |
 | [PHP Azure Maps Provider](https://github.com/max-langerman/azure-maps-provider) | A PHP Azure Maps Geocoder Provider. | 
 
