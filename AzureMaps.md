@@ -27,6 +27,12 @@ The following is a list of open-source projects that extend the capabilities of 
 | [Azure Maps Swipe Map module](https://github.com/Azure-Samples/azure-maps-swipe-map) | A module for the Azure Maps Web SDK that allows swiping between two overlapping maps, ideal for comparing two overlapping data sets. |
 | [Azure Maps Sync Map module](https://github.com/Azure-Samples/azure-maps-sync-maps) | An Azure Maps Web SDK module that synchronizes the cameras of two or more maps. |
 
+**Third party map control plugins**
+
+| Project Name | Description |
+|-|-|
+| [Azure Maps Leaflet plugin](https://github.com/azure-samples/azure-maps-leaflet) | A [leaflet](https://leafletjs.com/) JavaScript plugin that makes it easy to overlay tile layers from the [Azure Maps tile services](https://docs.microsoft.com/rest/api/maps/renderv2/getmaptilepreview). |
+
 ### Azure Maps Creator
 
 | Project Name | Description |
